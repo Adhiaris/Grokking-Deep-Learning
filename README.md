@@ -36,32 +36,7 @@ Everything necessary from these subjects will be explained as you go. If you've 
 | 13 | Building a Framework | How to build a deep learning framework from scratch |
 | 14 | Language Modeling | Using RNNs for language modeling tasks |
 | 15 | Privacy in Deep Learning | Federated learning, homomorphic encryption, differential privacy, and secure multiparty computation |
-| 16 | Next Steps | Tools and resources to continue your deep learning journey |
 
-## Code
-
-All code examples are available for download:
-
-- **Publisher's website:** [manning.com/books/grokking-deep-learning](https://www.manning.com/books/grokking-deep-learning)
-
-| Chapter | Topic | Colab |
-|---------|-------|-------|
-| 1 | Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH1) |
-| 2 | Fundamental Concepts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH2) |
-| 3 | Making Predictions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH3) |
-| 4 | Evaluating Predictions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH4) |
-| 5 | Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH5) |
-| 6 | Your First Deep Network | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH6) |
-| 7 | The Big Picture | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH7) |
-| 8 | Regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH8) |
-| 9 | Activation Functions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH9) |
-| 10 | CNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH10) |
-| 11 | NLP Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH11) |
-| 12 | RNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH12) |
-| 13 | Building a Framework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH13) |
-| 14 | Language Modeling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH14) |
-| 15 | Privacy in Deep Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH15) |
-| 16 | Next Steps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_CH16) |
 
 ## Prerequisites
 
